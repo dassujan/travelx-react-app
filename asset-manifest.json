@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/travelx-react-app/static/css/main.c85c2097.css",
+    "main.js": "/travelx-react-app/static/js/main.ad2f2973.js",
+    "static/js/787.ca16a4e2.chunk.js": "/travelx-react-app/static/js/787.ca16a4e2.chunk.js",
+    "static/media/about4.jpg": "/travelx-react-app/static/media/about4.db0ed299b92067dd430a.jpg",
+    "static/media/about2.jpg": "/travelx-react-app/static/media/about2.f358cc9bb2e11a5a411d.jpg",
+    "static/media/about1.jpg": "/travelx-react-app/static/media/about1.7a4fa553dc4e24223ec7.jpg",
+    "static/media/about3.jpg": "/travelx-react-app/static/media/about3.f532b43e8e1953912328.jpg",
+    "static/media/India.jpg": "/travelx-react-app/static/media/India.917028c8fa24f9d955b3.jpg",
+    "static/media/Poland.jpg": "/travelx-react-app/static/media/Poland.88e55a8910f9b99d6e93.jpg",
+    "static/media/Paris.jpg": "/travelx-react-app/static/media/Paris.a34ecb32d833252f7f2f.jpg",
+    "static/media/offer.jpg": "/travelx-react-app/static/media/offer.59251ccc09ec93324963.jpg",
+    "static/media/Switzerland.jpg": "/travelx-react-app/static/media/Switzerland.fdd029f1d2c3e5f4819b.jpg",
+    "static/media/NewYork.jpg": "/travelx-react-app/static/media/NewYork.eb74928da13c61b11094.jpg",
+    "static/media/London.jpg": "/travelx-react-app/static/media/London.b4aefb70d6a4625c40fe.jpg",
+    "index.html": "/travelx-react-app/index.html",
+    "main.c85c2097.css.map": "/travelx-react-app/static/css/main.c85c2097.css.map",
+    "main.ad2f2973.js.map": "/travelx-react-app/static/js/main.ad2f2973.js.map",
+    "787.ca16a4e2.chunk.js.map": "/travelx-react-app/static/js/787.ca16a4e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85c2097.css",
+    "static/js/main.ad2f2973.js"
+  ]
+}
